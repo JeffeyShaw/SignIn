@@ -1,1 +1,7 @@
 签到，有欢太、腾讯视频、电信、bilibili
+
+##hostloc
+使用前记得先安装包：
+apt/yum install python3-pip
+pip3 install pyaes
+pip3 install requests
