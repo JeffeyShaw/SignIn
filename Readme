@@ -1,7 +1,12 @@
-签到，有欢太、腾讯视频、电信、bilibili
+签到脚本
 
-##hostloc
-使用前记得先安装包：
-apt/yum install python3-pip
-pip3 install pyaes
-pip3 install requests
+AliDriver: 阿里云盘
+bilibili: 哔哩哔哩
+Heytap: 欢太
+Hostloc: hostloc.com
+SF Express: 顺丰速递
+Telecom: 中国电信
+XiMaLaYa：喜马拉雅
+
+
+<所有脚本搜集于网络，侵权联删>

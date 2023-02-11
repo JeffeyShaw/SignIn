@@ -1,0 +1,2 @@
+- 手机电脑的cookie一样，填在脚本末尾cookie处
+- 注意需要安装requestsmo模块
