@@ -5,3 +5,5 @@ apt/yum install python3-pip
 pip3 install pyaes
 pip3 install requests
 ```
+
+hostloc签到脚本

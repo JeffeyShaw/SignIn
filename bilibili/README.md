@@ -8,7 +8,9 @@
 INSERT INTO `t_sys_quartz_job` (`id`, `job_name`, `job_group`, `invoke_target`, `cron_expression`, `misfire_policy`, `concurrent`, `status`) VALUES ('592295794938351617', '米游社更新个人信息', 'DEFAULT', 'mihuyouTask.updateAvatar()', '0 15 0 ? * MON', '3', '1', 0);
 ```
 
-如果觉得好用，点个**star**吧
+
+
+搜集
 
 ### 开源地址
 [wyt1215819315 / autoplan](https://github.com/wyt1215819315/autoplan)
